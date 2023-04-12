@@ -5,7 +5,7 @@
 ##### (ai, festival wasn't appropiate)
     https://github.com/coqui-ai/TTS
 ## 3) TimeStamps with text
-#####, captions? ffmpeg, withwords in solid background
+##### captions? ffmpeg, withwords in solid background
 ___TODO___
 ## 4) Context pictures
 ##### (ai?, random from stock?)
